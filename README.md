@@ -26,6 +26,14 @@ python manage.py runserver
 
 * Djongo
 
+# Requests Allowed
+* GET
+
+* POST
+
+* DELETE
+
+
 
 
 The orignal repository had some credentials so this one is the copy of it without credentials 
