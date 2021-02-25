@@ -10,13 +10,13 @@ python manage.py migrate
 python manage.py runserver
 
 # Tech stack
-1)Primarly made on Django
-2)Uses nosql dbms service MongoDb Atlas for all the database management job
-3)Google.oauth2
-4)Rest_framework
-5)Fcm_django
-6)Firebase
-7)Djongo
+->Primarly made on Django
+->Uses nosql dbms service MongoDb Atlas for all the database management job
+->Google.oauth2
+->Rest_framework
+->Fcm_django
+->Firebase
+->Djongo
 
 
 The orignal repository had some credentials so this one is the copy of it without credentials 
