@@ -14,7 +14,7 @@ python manage.py runserver
 # Tech stack
 * Primarly made on Django
 
-* Uses nosql dbms service MongoDb Atlas for all the database management job
+* Uses nosql database service MongoDb Atlas for all the database job
 
 * Google.oauth2
 
