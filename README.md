@@ -1,5 +1,7 @@
 # swap-backend
 
+You can access the rest service api using:
+
 https://swapcrux.herokuapp.com/
 
 The orignal repository had some credentials so this one is the copy of it without credentials 
