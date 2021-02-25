@@ -5,8 +5,10 @@ You can access the rest service api using
 https://swapcrux.herokuapp.com/
 
 # Build
-python manage.py makemigrations
+python manage.py makemigrations 
+
 python manage.py migrate
+
 python manage.py runserver
 
 # Tech stack
