@@ -8,7 +8,7 @@ https://swapcrux.herokuapp.com/
 
 You can access the github repo at
 
-https://github.com/rijuld/swap-backend
+https://github.com/rijuld/swapfrontend
 
 # Build
 python manage.py makemigrations 
